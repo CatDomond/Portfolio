@@ -43,19 +43,19 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>A variable is a symbolic name for information. The variable's name represents what information the variable contains.</td>
+          <td>Using the letter s to represent the amount of cups of sugar you need to bake a cake</td>
+          <td>Start = "You wake up one morning and find that you aren’t in your bed; you aren’t even in your room. You’re in the middle of a  giant maze..."</td>
+          <td>Set x to 0</td>
         </tr>
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>A loop is a sequence of instructions that is continually repeated until a certain condition is reached.</td>
+          <td>Keep pouring cereal until the bowl is full.</td>
+          <td>for x in range(0, 3): print "We're on time %d" % (x)</td>
+          <td>Forever Loop</td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
